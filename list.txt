@@ -10,3 +10,10 @@ cooking oil
 cubes
 meat
 bread
+bar soap
+detergent
+scouring powder
+mop 
+scouring pad
+harpic
+

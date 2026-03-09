@@ -3,3 +3,10 @@ chocolate
 crisps
 sweets 
 minute maid
+sugar 
+maize flour
+salt
+cooking oil
+cubes
+meat
+bread
